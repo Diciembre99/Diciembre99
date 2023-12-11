@@ -12,7 +12,7 @@
 ## Mis habilidades
 
 - **Lenguajes de programación:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/%20Java-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - **Tecnologías:** HTML, CSS, DJANGO, FLUTTER
