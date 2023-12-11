@@ -14,7 +14,7 @@
 - **Lenguajes de programación:** Python, Java, Kotlin, C#
 - **Tecnologías:** HTML, CSS, DJANGO, FLUTTER
 - **Bases de datos:** MySQL, SQLITE, FIREBASE
-- **Herramientas:** Git, VS Code, Android Studio
+- **Herramientas:** Git, VS Code, Android Studio, Eclipse, Intellij, Pycharm
 
 
 ## Contacto
