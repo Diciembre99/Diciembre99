@@ -15,10 +15,11 @@
 - ![Static Badge](https://img.shields.io/badge/%20Java-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Static Badge](https://img.shields.io/badge/%20C%23-blue?style=for-the-badge&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/%20Kotlin-purple?style=for-the-badge&logo=kotlin)
+
 - **Tecnologías:**
 - ![Static Badge](https://img.shields.io/badge/%20HTML-orange?style=%20for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%20CSS3-red?style=%20for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/%20Android%20Studio-green?style=%20for-the-badge&logo=androidstudio&logoColor=white)
 
 - **Bases de datos:** MySQL, SQLITE, FIREBASE
 - **Herramientas:** Git, VS Code, Android Studio, Eclipse, Intellij, Pycharm
