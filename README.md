@@ -25,9 +25,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diciembre99&hide_border=true&theme=radical" />
 </p>
 <br>
- <p align="center">
-   <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.gif" alt="snake">
-</p>
 
 ## Contacto
 
