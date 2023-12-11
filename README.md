@@ -11,7 +11,10 @@
 
 ## Mis habilidades
 
-- **Lenguajes de programación:** Python, Java, Kotlin, C#
+- **Lenguajes de programación:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - **Tecnologías:** HTML, CSS, DJANGO, FLUTTER
 - **Bases de datos:** MySQL, SQLITE, FIREBASE
 - **Herramientas:** Git, VS Code, Android Studio, Eclipse, Intellij, Pycharm
