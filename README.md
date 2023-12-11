@@ -15,7 +15,11 @@
 - ![Static Badge](https://img.shields.io/badge/%20Java-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- **Tecnologías:** HTML, CSS, DJANGO, FLUTTER
+- **Tecnologías:**
+- ![Static Badge](https://img.shields.io/badge/%20HTML-orange?style=%20for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/%20CSS3-red?style=%20for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/%20Android%20Studio-green?style=%20for-the-badge&logo=androidstudio&logoColor=white)
+
 - **Bases de datos:** MySQL, SQLITE, FIREBASE
 - **Herramientas:** Git, VS Code, Android Studio, Eclipse, Intellij, Pycharm
 
