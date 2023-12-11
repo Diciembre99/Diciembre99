@@ -21,7 +21,7 @@
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- [LinkedIn]([[enlace-a-tu-linkedin](https://www.linkedin.com/in/kevin-ren%C3%A9-castillo-castaneda-76a0a5255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/kevin-ren%C3%A9-castillo-castaneda-76a0a5255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- [LinkedIn](https://www.linkedin.com/in/kevin-ren%C3%A9-castillo-castaneda-76a0a5255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ¡No dudes en explorar mis repositorios y contribuciones! Si tienes alguna pregunta o sugerencia, ¡estaré encantado de escucharla!
 
